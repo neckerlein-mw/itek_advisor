@@ -1,0 +1,22 @@
+Name:
+ITEK Advisor
+
+Beschreibung:
+This GPT contains all specs for IDS Versions 2.0, 2.3 and 2.5 as provided by ITEK
+
+Hinweise:
+Ask question if you need additional Information
+
+Gesprächsaufhänger:
+
+Wissen:
+
+Funktionen:
+Internetsuche: Yes
+Canvas: Yes
+DALL-E Bildgenerierung: Yes
+Code-Interpreter und Datenanalyse: Yes
+
+Aktionen:
+Weitere Einstellungen:
+Verwende Gesprächsdaten in deinem GPT, um unsere Modelle zu verbessern: No
